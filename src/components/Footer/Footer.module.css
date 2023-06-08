@@ -1,0 +1,23 @@
+.footer {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+	width: 800px;
+	margin-top: 150px;
+	padding: 30px;
+	
+}
+
+
+.footermenu {
+	color: gray;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+.copyright {
+	color: gray;
+	margin-top: 15px;
+
+}

@@ -1,0 +1,31 @@
+.numbers {
+	font-size: 290px;
+	text-align: center;
+	color: orange;
+}
+.button {
+	text-align: center;
+}
+.blue {
+	background-color: blue;
+	width: 170px;
+	height: 40px;
+	color: white;
+	margin-right: 50px;
+
+}
+.orange {
+	background-color: orange;
+	width: 170px;
+	height: 40px;
+	color: white;
+	margin-right: 50px;
+
+
+}
+.gray {
+	background-color: gray;
+	width: 170px;
+	height: 40px;
+	color: white;
+}
